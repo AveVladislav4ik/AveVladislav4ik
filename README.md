@@ -16,4 +16,4 @@
   <h1> Профиль на GITHUB </h1>
 </div>
 
-### :heart_on_fire: Обо мне:
+### :upside_down_face:	 Обо мне:
