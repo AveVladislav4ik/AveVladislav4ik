@@ -19,4 +19,4 @@
 ### :upside_down_face:	 Обо мне:
 - :heart_on_fire: факт обо мне
 - :headphones: факт обо мне
-- :ru: факт обо мне 
+- :octocat: факт обо мне 
