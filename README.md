@@ -20,3 +20,5 @@
 - :heart_on_fire: факт обо мне
 - :headphones: факт обо мне
 - :octocat: факт обо мне 
+
+### hammer_and_wrench: Языки и инструменты :
