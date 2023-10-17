@@ -27,7 +27,7 @@
 <img src = "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 <img src = "https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
-<img src = "https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" width="40" height="40"/
+<img src = "https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" width="40" height="40"/>
 <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40"/>
 <img src = "https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="40" height="40"/>
 <img src = "https://cdn.coursehunter.net/category/c-sharp-c.png" width="40" height="40"/>
