@@ -8,4 +8,5 @@
   </a>
 </div>
 <div id="viewprof" align="center">
-  <img scr="https">
+  <img scr="https://komarev.com/ghpvc/?username=AveVlasivlav4ik&style=flat-square&color=blue" alt""/>
+</div>  
