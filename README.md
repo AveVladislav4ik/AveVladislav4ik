@@ -45,3 +45,8 @@
 </div>
 
 ### :trophy: Достижение :
+
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=AveVladislav4ik" alt=""/>
+</div>
+
