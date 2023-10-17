@@ -7,8 +7,9 @@
     <img src = "https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="VK Badge"/>
   </a>
 </div>
+
 <div id="view prof" align="center">
-  <img src="https://komarev.com/ghpvc/?AveVladislav4ik=&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?AveVladislav4i=&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div id="hey there" align="center">
