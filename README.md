@@ -21,4 +21,4 @@
 - :headphones: факт обо мне
 - :octocat: факт обо мне 
 
-### hammer_and_wrench: Языки и инструменты :
+### :upside_down_face:	 Обо мне:
