@@ -22,3 +22,7 @@
 - :octocat: факт обо мне 
 
 ### :hammer_and_wrench: Языки и инстурументы :
+<div>
+<img src = "https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>
+
+</div>
