@@ -24,5 +24,22 @@
 ### :hammer_and_wrench: Языки и инстурументы :
 <div>
 <img src = "https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>
-
+<img src = "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src = "https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
+<img src = "https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" width="40" height="40"/
+<img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+<img src = "https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="40" height="40"/>
+<img src = "https://cdn.coursehunter.net/category/c-sharp-c.png" width="40" height="40"/>
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx76tk3VdhdoHLaeYU_ZbI8tqXy7FyAVlMivXGdf2yR1w7tuw2XavxEje8gjy_eIEzDks&usqp=CAU" width="40" height="40"/>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/1C_Company_logo.svg/800px-1C_Company_logo.svg.png" width="40" height="40"/>
+<img src = "https://cdn-icons-png.flaticon.com/512/2478/2478928.png" width="40" height="40"/>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/7/7f/Erwin_logo.png" width="40" height="40"/>
+<img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40" height="40"/>
+<img src = "https://internet-lab.ru/sites/internet-lab.ru/files/2021-04/windows.png" width="40" height="40"/>
+<img src = "https://www.unixtutorial.ru/images/posts/Sublime_Text_3_logo.png" width="40" height="40"/>
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq508bc2mJrZ6SPyK8AEikjg6b-RxDLsozDQ&usqp=CAU" width="40" height="40"/>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="40" height="40"/>
+<img src = "https://uploads-ssl.webflow.com/63fda77e5fd49598bbf00892/64357bf9cff600cd7906c530_ISO_C2B2B_Logo.svg" width="40" height="40"/>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/1200px-Notepad%2B%2B_Logo.svg.png" width="40" height="40"/>
 </div>
